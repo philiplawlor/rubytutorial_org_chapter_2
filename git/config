@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/philiplawlor/demo_app_ch_2.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[giggle]
+	file-view-path = Rakefile
+[user]
+	name = Philip M Lawlor
+	email = PhilipLawlor@Gmail.com
